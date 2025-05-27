@@ -42,23 +42,3 @@ using Pkg
 Pkg.add("LinearAlgebra")
 Pkg.add("SparseArrays")
 ```
-
-## Usage
-
-Each script is standalone and can be executed directly. For example:
-```bash
-julia qfish_eigendecomp.jl
-```
-
-You can modify the state parameters or Hamiltonian models inside the scripts for customized analyses.
-
-## Applications
-
-- Quantum metrology
-- Noise resilience in quantum sensors
-- Study of Fisher information under mixed-state evolution
-- Bures metric-based distinguishability in quantum channels
-
-## License
-
-MIT License
