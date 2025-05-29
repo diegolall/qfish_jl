@@ -34,7 +34,6 @@ Key features:
 - Dependencies:
   - `LinearAlgebra`
   - `SparseArrays`
-  - `QuantumOptics` (optional, if any part of your code uses it – otherwise, remove mention)
 
 Install dependencies using:
 ```julia
